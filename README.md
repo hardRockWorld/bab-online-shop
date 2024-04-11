@@ -1,7 +1,4 @@
-This is project for creating an fullstack e-commerce application using the following technologies:
+# BaB Online Shop
 
-### BaBOnlineShop
-
-- Next.js
-- Tailwind CSS
-- Typescript
+_BaB Online Shop_ is a fullstack e-commerce application build with Next.js, TypeScript and TailwindCSS.<br />
+BaB stands for _Banousadhi Ayurved Bhandar_ and is an Indian based shop for "_traditional medicines from the forest_".
