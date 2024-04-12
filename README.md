@@ -19,7 +19,6 @@ BaB stands for _Banousadhi Ayurved Bhandar_ and is an Indian traditional medicin
        {
          "extends": [
            "next/core-web-vitals",
-           "prettier",
            "plugin:prettier/recommended"
          ],
          "plugins": ["prettier"],
@@ -35,8 +34,6 @@ BaB stands for _Banousadhi Ayurved Bhandar_ and is an Indian traditional medicin
           "semi": true,
           "trailingComma": "all",
           "singleQuote": false,
-          "jsxSingleQuote": false,
-          "tsxSingleQuote": false,
           "printWidth": 80,
           "tabWidth": 2
         }
