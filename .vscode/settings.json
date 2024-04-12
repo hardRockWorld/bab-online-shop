@@ -11,5 +11,6 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.inlayHints.parameterNames.enabled": "all",
   "typescript.inlayHints.parameterTypes.enabled": true,
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "cSpell.words": ["Ayurved", "Banousadhi", "Bhandar", "tailwindcss"]
 }
