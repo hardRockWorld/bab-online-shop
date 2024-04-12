@@ -2,3 +2,7 @@
 
 _BaB Online Shop_ is a fullstack e-commerce application build with Next.js, TypeScript and TailwindCSS.<br />
 BaB stands for _Banousadhi Ayurved Bhandar_ and is an Indian traditional medicine shop for "_traditional medicines from the forest_".
+
+### Salient Features of the Application
+
+- The Project utilizes ESLint and Prettier for code formatting
